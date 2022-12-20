@@ -1,0 +1,11 @@
+git clone https://github.com/LeoFu9487/push_swap_tester.git && cd push_swap_tester
+
+
+
+(size 3 and 5), run :
+	bash basic_test.sh
+
+Else bash loop.sh <stack size> <loop times>
+
+	ex : bash loop.sh 100 10
+
